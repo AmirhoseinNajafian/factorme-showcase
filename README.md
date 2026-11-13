@@ -41,19 +41,19 @@ The following captures show the Persian, right-to-left interface on mobile-sized
 
 ### Dashboard
 
-<img src="docs/screenshots/dashboard-mobile.png" alt="FactorMe dashboard on a mobile screen" width="320" />
+<img src="docs/screenshots/dashboard-mobile.png" alt="FactorMe dashboard on a mobile screen" width="720" />
 
 ### Create an invoice
 
-<img src="docs/screenshots/invoice-editor-mobile.png" alt="FactorMe invoice editor on a mobile screen" width="320" />
+<img src="docs/screenshots/invoice-editor-mobile.png" alt="FactorMe invoice editor on a mobile screen" width="720" />
 
 ### Invoice list
 
-<img src="docs/screenshots/invoice-list-mobile.png" alt="FactorMe saved invoice list on a mobile screen" width="320" />
+<img src="docs/screenshots/invoice-list-mobile.png" alt="FactorMe saved invoice list on a mobile screen" width="720" />
 
 ### Account and invoice settings
 
-<img src="docs/screenshots/account-settings-mobile.png" alt="FactorMe account and invoice customization settings on a mobile screen" width="320" />
+<img src="docs/screenshots/account-settings-mobile.png" alt="FactorMe account and invoice customization settings on a mobile screen" width="720" />
 
 ### Sign up and sign in
 
