@@ -47,11 +47,11 @@
 
 <img src="docs/screenshots/invoice-editor-mobile.png" alt="صفحه ساخت فاکتور در موبایل" width="720" />
 
-### فاکتورهای من
+### تنظیمات ظاهری فاکتور
 
 <img src="docs/screenshots/invoice-list-mobile.png" alt="فهرست فاکتورهای ذخیره‌شده در موبایل" width="720" />
 
-### تنظیمات حساب و ظاهر فاکتور
+### تنظیمات حساب
 
 <img src="docs/screenshots/account-settings-mobile.png" alt="تنظیمات حساب و شخصی‌سازی فاکتور در موبایل" width="720" />
 
