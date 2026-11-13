@@ -37,7 +37,7 @@ Other product areas include an account dashboard, customer details, account sett
 
 ## Interface preview
 
-The following captures show the Persian, right-to-left interface on mobile-sized screens. They use sample interface data and are included to demonstrate the product experience—not as a live service or a downloadable build.
+The following captures show the Persian, right-to-left interface on desktop-sized screens. They use sample interface data and are included to demonstrate the product experience—not as a live service or a downloadable build.
 
 ### Dashboard
 
@@ -47,11 +47,11 @@ The following captures show the Persian, right-to-left interface on mobile-sized
 
 <img src="docs/screenshots/invoice-editor-mobile.png" alt="FactorMe invoice editor on a mobile screen" width="720" />
 
-### Invoice list
+### Invoice settings
 
 <img src="docs/screenshots/invoice-list-mobile.png" alt="FactorMe saved invoice list on a mobile screen" width="720" />
 
-### Account and invoice settings
+### Account settings
 
 <img src="docs/screenshots/account-settings-mobile.png" alt="FactorMe account and invoice customization settings on a mobile screen" width="720" />
 
