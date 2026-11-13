@@ -1,0 +1,19 @@
+Suggested repository name:
+factorme-showcase
+
+Suggested description:
+A Persian-first invoice workspace for freelancers and small businesses. Product overview, UI previews, brand assets, and project documentation — no application source code.
+
+Suggested topics:
+invoice-management, invoice-generator, persian, rtl, small-business, freelancer-tools, saas, product-showcase, business-tools, ui-ux
+
+Suggested visibility:
+Public (for portfolio/showcase use)
+
+Social preview image:
+assets/brand/social-preview.jpg
+
+Primary README:
+README.md (English)
+Persian README:
+README.fa.md
