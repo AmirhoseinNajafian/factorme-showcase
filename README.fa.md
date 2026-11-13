@@ -37,23 +37,23 @@
 
 ## چند تصویر از محیط فاکتورمی
 
-این تصاویر، پیش‌نمایش رابط فارسی و راست‌به‌چپ در اندازه موبایل هستن. اطلاعات داخل تصاویر نمونه‌ان و برای نمایش محصول استفاده شدن؛ این تصاویر به معنی فعال‌بودن سرویس عمومی یا ارائه فایل نصب نیستن.
+این تصاویر، پیش‌نمایش رابط فارسی و راست‌به‌چپ در اندازه دکستاپ هستن. اطلاعات داخل تصاویر نمونه‌ان و برای نمایش محصول استفاده شدن؛ این تصاویر به معنی فعال‌بودن سرویس عمومی یا ارائه فایل نصب نیستن.
 
 ### داشبورد
 
-<img src="docs/screenshots/dashboard-mobile.png" alt="داشبورد فاکتورمی در موبایل" width="320" />
+<img src="docs/screenshots/dashboard-mobile.png" alt="داشبورد فاکتورمی در موبایل" width="720" />
 
 ### ساخت فاکتور
 
-<img src="docs/screenshots/invoice-editor-mobile.png" alt="صفحه ساخت فاکتور در موبایل" width="320" />
+<img src="docs/screenshots/invoice-editor-mobile.png" alt="صفحه ساخت فاکتور در موبایل" width="720" />
 
 ### فاکتورهای من
 
-<img src="docs/screenshots/invoice-list-mobile.png" alt="فهرست فاکتورهای ذخیره‌شده در موبایل" width="320" />
+<img src="docs/screenshots/invoice-list-mobile.png" alt="فهرست فاکتورهای ذخیره‌شده در موبایل" width="720" />
 
 ### تنظیمات حساب و ظاهر فاکتور
 
-<img src="docs/screenshots/account-settings-mobile.png" alt="تنظیمات حساب و شخصی‌سازی فاکتور در موبایل" width="320" />
+<img src="docs/screenshots/account-settings-mobile.png" alt="تنظیمات حساب و شخصی‌سازی فاکتور در موبایل" width="720" />
 
 ### ورود و ساخت حساب
 
